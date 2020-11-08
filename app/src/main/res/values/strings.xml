@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Datetime View</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="textview">Hello World</string>
+</resources>
